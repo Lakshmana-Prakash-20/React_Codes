@@ -1,0 +1,108 @@
+.main {
+  margin: 20px 100px;
+  padding: 20px;
+  border: 1px solid #eae4d9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #e8e4db;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Form {
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Content {
+  width: 300px;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.UpdateBox {
+  width: 22.5%;
+}
+
+#btn0 {
+  padding: 10px 20px;
+  background-color: #0b1117;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#btn:hover {
+  background-color: #042f0c;
+}
+
+#btn0:hover {
+  background-color: #042f0c;
+}
+
+#btm2:hover {
+  background-color: #690707;
+}
+
+#btm1:hover {
+  background-color: #042344;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 50px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+
+.btn {
+  padding: 5px 10px;
+  margin-right: 5px;
+  background-color: #0b1117;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#btm1 {
+  margin-left: 5px;
+}
+
+#btn0 {
+  padding: 8px 10px;
+  margin: 5px;
+  margin-bottom: 15px;
+  background-color: #0b1117;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+body {
+  background-image: url("/home/system34/Documents/testapp/test/src/asset/background.avif");
+}
+
+p {
+  color: red;
+  font-size: 0.8rem;
+}
